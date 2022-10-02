@@ -14,7 +14,7 @@ body {
   background-color: white;
 }
 
-nav {
+.navigation {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -25,7 +25,7 @@ nav {
   background-color: rgb(31, 0, 31);
 }
 
-nav a {
+.navigation a {
   display: inline-block;
   min-width: 9rem;
   padding: 0.5rem;
@@ -37,7 +37,7 @@ nav a {
   background-color: rgb(66, 0, 31);
 }
 
-nav a[aria-current='page'] {
+.navigation a[aria-current='page'] {
   background-color: rgb(66, 0, 31);
   color: white;
 }
