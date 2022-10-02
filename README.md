@@ -1,4 +1,4 @@
 # Personal-Website
 This is my personal website.
 
-You can check the (work in progress) site out on github pages! https://amhansonn.github.io/Personal-Website/
+I am working on getting everything set up for hosting. As soon as I have it working, you'll see it here and in my github readme. 
